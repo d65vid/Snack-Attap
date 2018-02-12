@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SnackAttapp</string>
+    <string name="action_add">Add Snack</string>
+    <string name="snack_type_non_veggie">Non-Veggie</string>
+    <string name="snack_type_veggie">Veggie</string>
+    <string name="btn_submit">Submit</string>
+    <string name="dialog_submit_empty">Select some tasty snacks and try again.</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_add_snack_type">Snack type:</string>
+</resources>
